@@ -26,8 +26,8 @@ Para o projeto, foi utilizado o Agent0_ver2, o qual foi fornecido pelo professor
 O Agent0 já nos foi providenciado com a estutura base, preparada para que fossem criados e testados diversos algoritmos de pesquisa, como por exemplo a “Pesquisa em Largura” e a “Pesquisa em Profundidade”, experiências as quais nos ajudaram a melhor compreender e interpretar as diversas vertentes do complexo tema que é a Inteligência artificial. 
 Finalmente, e de acordo com os requerimentos do projeto, foi implementado o algoritmo de pesquisa A*.
 
-*****************************************************************    Programmers    ************************************************************************
+*****************************************************************    Programmers    *********************************************************************
   
 |    André Sousa    |    Bruno Viveiros    |    Gonçalo Almeida    |
 
-************************************************************************************************************************************************************
+*********************************************************************************************************************************************************
