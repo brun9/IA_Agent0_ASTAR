@@ -32,6 +32,19 @@ O Agent0 já nos foi providenciado com a estutura base, preparada para que fosse
 Finalmente, e de acordo com os requerimentos do projeto, foi implementado o algoritmo de pesquisa A*.
 
 
+## Como correr:
+
+### Servidor:  
+
+Na linha de comandos, **a partir do diretório principal do projeto**, executar:  
+    ```python3 server/main.py```  
+  
+### Cliente:  
+
+Na linha de comandos, **a partir do diretório principal do projeto**, executar:  
+    ```python3 client/example_agent_search_run_astar.py```  
+    
+
 ###  Programmers  ###
 
 |    André Sousa    |    Bruno Viveiros    |    Gonçalo Almeida    |
